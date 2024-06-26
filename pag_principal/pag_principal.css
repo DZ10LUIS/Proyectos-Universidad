@@ -1,0 +1,234 @@
+/*
+	@name pag_principal
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1512px; width: 1512px; height: 982px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_pag_principal_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 982px;
+}
+
+#_bg__pag_principal_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 982px;
+	background:rgba(242,181,68,1);
+}
+
+
+#close_up_delicious_pizza_1 {
+	top: 147px !important;
+	position: absolute !important;
+	left: 967px;
+	width: 545px;
+	height: 835px;
+	background:url(skins/close_up_delicious_pizza_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 147px;
+	background:rgba(0,0,0,1);
+}
+
+
+#pizza_tin {
+	top: 25px;
+	left: 206px;
+	width: 691px;
+	height: 167px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	font-style: italic;
+	text-align: left;
+	color:#E8EC4A;
+}
+
+
+#italian_pizza_13325372_1 {
+	top: 15px !important;
+	position: absolute !important;
+	left: 675px;
+	width: 121px;
+	height: 121px;
+	background:url(skins/italian_pizza_13325372_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_3 {
+	top: 193px;
+	left: 611px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#rectangle_4 {
+	top: 701px;
+	left: 611px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#contacto {
+	top: 709px;
+	left: 640px;
+	width: 302px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 569px;
+	left: 611px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#pedidos {
+	top: 577px;
+	left: 640px;
+	width: 302px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	top: 833px;
+	left: 611px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#acerca_de {
+	top: 849px;
+	left: 648px;
+	width: 317px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#menu {
+	top: 209px;
+	left: 696px;
+	width: 221px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pepperoni_rodajas_finas_es_aderezo_pizza_popular_pizzerias_estilo_americano_aislado_sobre_fondo_blanco_naturaleza_muerta_1 {
+	top: 59px !important;
+	position: absolute !important;
+	left: 1100px;
+	width: 300px;
+	height: 300px;
+	background:url(skins/pepperoni_rodajas_finas_es_aderezo_pizza_popular_pizzerias_estilo_americano_aislado_sobre_fondo_blanco_naturaleza_muerta_1.png);
+	background-size:cover;
+}
+
+
+#deliciosa_pizza_italiana_tomate_aceitunas_pepperoni_champinones_vista_superior_aislada_fondo_blanco_naturaleza_muerta_copia_espacio_1 {
+	top: 311px !important;
+	position: absolute !important;
+	left: 1090px;
+	width: 300px;
+	height: 300px;
+	background:url(skins/deliciosa_pizza_italiana_tomate_aceitunas_pepperoni_champinones_vista_superior_aislada_fondo_blanco_naturaleza_muerta_copia_espacio_1.png);
+	background-size:cover;
+}
+
+
+#pizza_fresca_champinones_jamon_queso_sobre_fondo_blanco_copie_espacio_hecho_casa_amor_entrega_rapida_receta_menu_vista_superior_1 {
+	top: 633px !important;
+	position: absolute !important;
+	left: 1025px;
+	width: 300px;
+	height: 300px;
+	background:url(skins/pizza_fresca_champinones_jamon_queso_sobre_fondo_blanco_copie_espacio_hecho_casa_amor_entrega_rapida_receta_menu_vista_superior_1.png);
+	background-size:cover;
+}
+
+
+#pizza_with_various_ingridients_table_1 {
+	top: 147px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 546px;
+	height: 835px;
+	background:url(skins/pizza_with_various_ingridients_table_1.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
