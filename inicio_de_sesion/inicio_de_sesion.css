@@ -1,0 +1,204 @@
+/*
+	@name inicio_de_sesion
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1512px; width: 1512px; height: 982px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_inicio_de_sesion_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 982px;
+}
+
+#_bg__inicio_de_sesion_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 982px;
+	background:rgba(242,181,68,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1512px;
+	height: 147px;
+	background:rgba(0,0,0,1);
+}
+
+
+#pizza_tin {
+	top: 25px;
+	left: 206px;
+	width: 691px;
+	height: 167px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	font-style: italic;
+	text-align: left;
+	color:#E8EC4A;
+}
+
+
+#italian_pizza_13325372_1 {
+	top: 15px !important;
+	position: absolute !important;
+	left: 675px;
+	width: 121px;
+	height: 121px;
+	background:url(skins/italian_pizza_13325372_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_4 {
+	top: 473px;
+	left: 1055px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#contacto {
+	top: 473px;
+	left: 756px;
+	width: 302px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 335px;
+	left: 1055px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#pedidos {
+	top: 351px;
+	left: 766px;
+	width: 302px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_5 {
+	top: 649px;
+	left: 891px;
+	width: 310px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#rectangle_7 {
+	top: 816px;
+	left: 881px;
+	width: 339px;
+	height: 82px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
+
+
+#acceder {
+	top: 665px;
+	left: 923px;
+	width: 317px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#registrarse {
+	top: 825px;
+	left: 919px;
+	width: 354px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#inicio_de_sesion_ek3 {
+	top: 191px;
+	left: 838px;
+	width: 567px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pizza_with_various_ingridients_table_1 {
+	top: 147px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 546px;
+	height: 835px;
+	background:url(skins/pizza_with_various_ingridients_table_1.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
