@@ -160,6 +160,19 @@ div { position: absolute; }
 	text-align: left;
 	color:#ffffff;
 }
+.register {
+	top: 795px;
+	left: 923px;
+	width: 350px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 50px;
+	font-style: italic;
+	text-align: left;
+	color:#ffffff;
+}
+
 
 
 .registrarse {

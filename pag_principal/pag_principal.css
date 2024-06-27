@@ -184,6 +184,34 @@ div { position: absolute; }
 	text-align: left;
 	color:#000000;
 }
+.menu {
+	top: 929px;
+	left: 696px;
+	width: 221px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 28px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+.rectangle_5 {
+	top: 933px;
+	left: 611px;
+	width: 310px;
+	height: 32px;
+	text-align: center;
+	color: #000000;
+	align-items: center;
+	justify-content: center;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(242,202,153,1);
+}
 
 
 #pepperoni_rodajas_finas_es_aderezo_pizza_popular_pizzerias_estilo_americano_aislado_sobre_fondo_blanco_naturaleza_muerta_1 {
